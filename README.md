@@ -72,7 +72,7 @@ SVG Logo Maker: https://www.youtube.com/watch?v=GJYMcLus3v0&t=172s
 
 ## Results
 
-Screencastify video: https://drive.google.com/file/d/1jcUoaxDcdIWBCr7ASWpJFSWkvWGDIiP1/view
+Screencastify video:  https://watch.screencastify.com/v/xvXr3nPZEXSyRZsaUtp1
 
 Github: https://github.com/Cferguson18/svg-logo-programming.git
 
