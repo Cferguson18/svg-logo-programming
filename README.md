@@ -42,6 +42,14 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 <img width= "40%" src="./demo.png" >
 
+## Installation Process
+
+Node.js
+
+Jest
+
+Inquirer.js
+
 
 ## Resources
 
@@ -56,6 +64,17 @@ Helpful SVG Resources-
  https://marketplace.visualstudio.com/items?itemName=jock.svg
 
  Youtube-
+ 
+Introduction To Testing In JavaScript With Jest: https://www.youtube.com/watch?v=FgnxcUQ5vho
+
+SVG Logo Maker: https://www.youtube.com/watch?v=GJYMcLus3v0&t=172s
 
 
 ## Results
+
+Screencastify video: https://drive.google.com/file/d/1jcUoaxDcdIWBCr7ASWpJFSWkvWGDIiP1/view
+
+Github: https://github.com/Cferguson18/svg-logo-programming.git
+
+
+<img src="./module.png" >

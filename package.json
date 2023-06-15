@@ -2,5 +2,28 @@
   "dependencies": {
     "inquirer": "^8.2.4",
     "jest": "^29.5.0"
-  }
+  },
+  "name": "svg-logo-programming",
+  "description": "## User Story",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cferguson18/svg-logo-programming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cferguson18/svg-logo-programming/issues"
+  },
+  "homepage": "https://github.com/Cferguson18/svg-logo-programming#readme"
 }
